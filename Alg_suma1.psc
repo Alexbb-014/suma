@@ -5,7 +5,7 @@ Algoritmo Alg_suma
 	int_numero2 = 3 
 	
 	int_suma = int_numero1 + int_numero2
-	escribir "el resultado de la operacion de " , int_numero1, "+" , int_numero2, "es ", int_suma
+	escribir "el resultado de la operacion de " , int_numero1, "+" , int_numero2, "es ", int_suma, " mi primera chamba "
 	
 	
 	
